@@ -44,4 +44,5 @@ Build and run the Console Application.
 Add your first quest and start leveling up!
 
 👨‍💻 **Developer**
+
 Developed by Hlib Holovai as a personal project to study C# OOP patterns, data serialization, and application architecture.
