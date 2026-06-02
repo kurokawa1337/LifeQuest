@@ -5,7 +5,7 @@ Welcome to **LifeQuest**! This is a gamified console-based task management appli
 ## 🚀 Key Features
 
 * **📝 Quest Management:** Create, view, complete, and delete your daily tasks.
-* **🎮 Gamification System:** * Tasks are categorized by difficulty (Easy, Medium, Hard), each rewarding a different amount of XP.
+* **🎮 Gamification System:** Tasks are categorized by difficulty (Easy, Medium, Hard), each rewarding a different amount of XP.
   * Dynamic leveling system: fill your XP bar to level up.
 * **👑 Rank System:** Unlock new titles every 10 levels (from *Novice* to *Legend*).
 * **🌟 Prestige Mechanics (End-game):** Once you reach Level 100, you can "Rebirth" (Prestige) to reset your level back to 1 but permanently increase your XP multiplier.
@@ -35,4 +35,13 @@ Welcome to **LifeQuest**! This is a gamified console-based task management appli
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YourUsername/LifeQuest.git](https://github.com/YourUsername/LifeQuest.git)
+   git clone [https://github.com/kurokawa1337/LifeQuest.git](https://github.com/kurokawa1337/LifeQuest.git)
+
+Open the project in Visual Studio.
+
+Build and run the Console Application.
+
+Add your first quest and start leveling up!
+
+👨‍💻 **Developer**
+Developed by Hlib Holovai as a personal project to study C# OOP patterns, data serialization, and application architecture.
